@@ -1,0 +1,18 @@
+#Tenall{
+    color: orange;
+    font-size: 30px;
+    opacity: 0.5;
+}
+.red{
+    color: red;
+    font-size: 30px;
+}
+h1{
+    color: blue;
+}
+#Tenall .yellow{
+    color: yellow;
+}
+#Tenall .img{
+    opacity: 0;
+}
